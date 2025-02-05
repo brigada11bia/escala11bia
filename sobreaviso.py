@@ -11,7 +11,4 @@ with coluna_img:
     
 
 #upload do arquivo
-df = pd.read_excel("previsao_sobreaviso.xlsx")
-
-st.write("Escala de Sobreaviso")
-st.dataframe(df)
+st.image('previsao_sobreaviso.png', width=400)

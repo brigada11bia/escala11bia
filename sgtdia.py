@@ -9,8 +9,6 @@ with coluna_titulo:
 with coluna_img:
     st.image('logo11bia.png', width=80)
     
-#upload do arquivo
-df = pd.read_excel("previsao_sgt_dia.xlsx")
 
-st.write("Escala de Sgt Dia")
-st.dataframe(df)
+#upload do arquivo
+st.image('previsao_sgt_dia.png', width=400)
