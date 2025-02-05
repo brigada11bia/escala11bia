@@ -1,5 +1,4 @@
 import streamlit as st
-from openpyxl import load_workbook
 
 st.set_page_config(
         page_title="Escalas de Serviço",
