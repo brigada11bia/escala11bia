@@ -11,4 +11,4 @@ with coluna_img:
     
 
 #upload do arquivo
-st.image('previsao_sobreaviso.png', width=1600)
+st.image('previsao_sobreaviso.png', width=2000)
